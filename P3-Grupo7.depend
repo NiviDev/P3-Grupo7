@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1636818647 source:c:\users\zidre\desktop\p3-grupo7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<strings.h>
+	<ctype.h>
+	"articulo.h"
+	"menu.h"
+	"RAL.h"
+	"RAC.h"
+	"ABB.h"
+	"LSO.h"
+	"LSOBT.h"
+	"lecturaOperacion.h"
+
+1636758918 c:\users\zidre\desktop\p3-grupo7\articulo.h
+
+1636636221 c:\users\zidre\desktop\p3-grupo7\menu.h
+	"LSO.h"
+	"LSOBT.h"
+
+1636638655 c:\users\zidre\desktop\p3-grupo7\ral.h
+
+1636638665 c:\users\zidre\desktop\p3-grupo7\rac.h
+
+1636638675 c:\users\zidre\desktop\p3-grupo7\abb.h
+
+1636638438 c:\users\zidre\desktop\p3-grupo7\lso.h
+
+1636754810 c:\users\zidre\desktop\p3-grupo7\lsobt.h
+
+1636818647 source:c:\users\vilur\documents\p3-grupo7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<strings.h>
+	<ctype.h>
+	"articulo.h"
+	"menu.h"
+	"RAL.h"
+	"RAC.h"
+	"ABB.h"
+	"LSO.h"
+	"LSOBT.h"
+	"lecturaOperacion.h"
+
+1638332131 c:\users\vilur\documents\p3-grupo7\articulo.h
+
+1636636221 c:\users\vilur\documents\p3-grupo7\menu.h
+	"LSO.h"
+	"LSOBT.h"
+
+1638312621 c:\users\vilur\documents\p3-grupo7\lso.h
+
+1638317356 c:\users\vilur\documents\p3-grupo7\lsobt.h
+
+1638317612 c:\users\vilur\documents\p3-grupo7\ral.h
+
+1638317657 c:\users\vilur\documents\p3-grupo7\rac.h
+
+1638411288 c:\users\vilur\documents\p3-grupo7\abb.h
+
+1638501351 c:\users\vilur\documents\p3-grupo7\lecturaoperacion.h
+
+1637099279 c:\users\zidre\desktop\p3-grupo7\lecturaoperacion.h
+
